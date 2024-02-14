@@ -7,7 +7,7 @@ from docx import Document
 import xmltodict
 import streamlit as st
 
-st.title("File Converter")
+st.title("File Converter App")
 
 # Utility functions
 def clean_text(text):
